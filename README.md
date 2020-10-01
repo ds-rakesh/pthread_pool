@@ -1,4 +1,4 @@
-pthread_pool
+pthread_pool, an amazing project.
 ============
 
 A simple implementation of thread pooling for C/C++ using POSIX threads.
